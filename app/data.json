@@ -1,0 +1,24 @@
+[{
+     "name"      : "Eduardo",
+     "surname"   : "Perez",
+     "sex"       : "Masculino",
+     "peso"      : "90",
+     "edad"      : "61",
+     "ocupacion" : "obrero"
+},
+{
+    "name"      : "Gloria",
+    "surname"   : "Gomez",
+    "sex"       : "Femenino",
+    "peso"      : "61",
+    "edad"      : "35",
+    "ocupacion" : "empleada"
+},
+{
+    "name"      : "Gladys",
+    "surname"   : "Diaz",
+    "sex"       : "Femenino",
+    "peso"      : "88",
+    "edad"      : "75",
+    "ocupacion" : "jubilada"  
+}]
